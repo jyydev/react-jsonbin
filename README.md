@@ -1,2 +1,2 @@
-# Basic React app interacting with jsonbin.org json server.
-- read, add and delete data from remote json server api.
+# Basic React app interacting with free jsonbin.org json api server.
+- Read (GET), add & delete (POST) data from remote json api server.

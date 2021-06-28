@@ -20,3 +20,5 @@
 - title:【前端速成】React 快速入門｜ Tiktok 工程師帶你入門前端
 - url: https://www.youtube.com/watch?v=zqV7NIFGDrQ
 - channel: 布魯斯前端
+
+# Notes

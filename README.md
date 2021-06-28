@@ -1,6 +1,6 @@
 # React + jsonbin.org API
 
-- Basic React app interacting with jsonbin.org REST api.
+- Basic React app interacting with jsonbin.org REST api. 
 - Read (GET), add & delete (POST) data from remote json api.
 - React app created using `npx create-react-app`.
 

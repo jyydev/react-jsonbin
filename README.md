@@ -1,4 +1,4 @@
-# React + jsonbin API
+# React + jsonbin.org API
 
 - Basic React app interacting with jsonbin.org REST api.
 - Read (GET), add & delete (POST) data from remote json api.
